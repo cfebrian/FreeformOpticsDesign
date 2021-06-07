@@ -31,4 +31,7 @@ I’m familiar with `OpticStudio` and there are various optimization modes that 
 
 ### Credits to Synopsis's `CodeV` imply... ###
 1. Will this work equally well with Zemax's `OpticStudio`?
-2. What do I need to know about `CodeV` to implement a similar methodology in `OpticStudio`
+
+### A colleague mentioned a comparison with TMA's ###
+The colleague said *"We looked into a FFS solution instead of a TMA.  We didn't see the advantage"*  However, several U of R references indicate a major improvement in size (and performance?).  Has a quantitatve comparison been performed?  When is there an advantage to FFS based designs? 
+3. What do I need to know about `CodeV` to implement a similar methodology in `OpticStudio`

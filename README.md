@@ -38,3 +38,8 @@ The colleague said *"We looked into a FFS solution instead of a TMA.  We didn't 
 
 ### Is there an inverse design process? ###
 Why not take the design, with its aberrations, correct the field dependent aberrations and trace backwards to the *offending surfaces*?  Can not the prescriptions and/or sensitivities be determined in this manner?
+
+### *Bauer* refers to a geometery filter ###
+1. How many designs are checked for each configuration?  
+2. Doesn't the distance between element affect the (engineering) magnitude of difficult to correct aberrations?
+3. How thoroughly should the space of measurements (parameters) of configurations checked?

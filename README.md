@@ -35,3 +35,6 @@ I’m familiar with `OpticStudio` and there are various optimization modes that 
 ### A colleague mentioned a comparison with TMA's ###
 The colleague said *"We looked into a FFS solution instead of a TMA.  We didn't see the advantage"*  However, several U of R references indicate a major improvement in size (and performance?).  Has a quantitatve comparison been performed?  When is there an advantage to FFS based designs? 
 3. What do I need to know about `CodeV` to implement a similar methodology in `OpticStudio`
+
+### Is there an inverse design process? ###
+Why not take the design, with its aberrations, correct the field dependent aberrations and trace backwards to the *offending surfaces*?  Can not the prescriptions and/or sensitivities be determined in this manner?
